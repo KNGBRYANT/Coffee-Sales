@@ -75,7 +75,7 @@ Excel formulas (`XLOOKUP`, `IF`, `SWITCH`, `LOWER`), PivotTables, Charts.
 
 The analysis focused on the research questions using PivotTables and charts. A **summary image** was created to show the key findings.
 
-![Coffee Sales Summary](Dashboard_Screenshot.png)
+![Coffee Sales Summary](Dashboard_screenshot.png)
 
 **Key Insights:**
 
@@ -108,9 +108,8 @@ The analysis focused on the research questions using PivotTables and charts. A *
 
 All relevant files are included in this repository:
 
-- **Dataset CSV:** [coffee_sales.csv](./data/coffee_sales.csv)  
+- **Dataset xlsx:** [coffee_sales.csv](coffee.xlsx)  
 - **Summary Screenshot:** [coffee_sales_summary.png](./screenshots/coffee_sales_summary.png)  
-- **Optional Slides (if any):** [Coffee_Sales_Slides.pdf](./slides/Coffee_Sales_Slides.pdf)
 ---
 ## 👤 Author
 

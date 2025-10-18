@@ -16,7 +16,6 @@
 7. [Limitations & Future Work](#limitations--future-work)
 8. [Project Files](#project-files)
 9. [Author](#author)
-10. [Fun Note](#fun-note)
 ---
 ## ❓ Research Questions: Coffee Sales Analysis
 

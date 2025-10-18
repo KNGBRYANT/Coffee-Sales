@@ -108,7 +108,7 @@ The analysis focused on the research questions using PivotTables and charts. A *
 
 All relevant files are included in this repository:
 
-- **Dataset xlsx:** [coffee_sales.csv](coffee.xlsx)  
+- **Dataset xlsx:** [coffee_sales.xlsx](coffee.xlsx)  
 - **Summary Screenshot:** [coffee_sales_summary.png](./screenshots/coffee_sales_summary.png)  
 ---
 ## 👤 Author
